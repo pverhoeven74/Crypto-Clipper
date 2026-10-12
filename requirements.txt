@@ -1,0 +1,6 @@
+rich>=13.0.0
+cryptography>=41.0.0
+pyperclip>=1.8.2
+watchdog>=3.0.0
+requests>=2.31.0
+pystray>=0.19.0
